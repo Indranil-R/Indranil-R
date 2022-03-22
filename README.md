@@ -13,10 +13,7 @@
 <code>
  <img src="https://user-images.githubusercontent.com/87275536/159572037-e385d39e-aa0b-46b9-b866-465ebb93506b.png" height="30" title="Java"> Android App Development 
  </code>
- <br>
- <code>
- ⭐ Improving My self
- </code>
+
  
 ## Languages
 
