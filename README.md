@@ -9,7 +9,7 @@
 - 😄 Pronouns: Indra
 - ⚡ Fun fact: The only thing i love after my family is  💻 Coding
 
-### Language and Tools
+#### Things I've tried my hands on
 
  <img src="https://user-images.githubusercontent.com/87275536/159572116-7ff22bb3-a95b-43cc-846c-01947024513b.png" height="40" title="Java"> &nbsp;
   <img src="https://user-images.githubusercontent.com/87275536/159571998-103aea90-e6d4-4587-a69f-f6a8e9dfe99e.png" height="40" title="Java">
