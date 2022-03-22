@@ -11,7 +11,7 @@
 
 ### Language and Tools
 
- <img src="https://user-images.githubusercontent.com/87275536/159572222-f026181f-e6fb-4d86-935d-981c2fa06443.png" height="20" title="Java">
+ <img src="https://user-images.githubusercontent.com/87275536/159572222-f026181f-e6fb-4d86-935d-981c2fa06443.png" height="40" title="Java">
 
 <!--
 - 👯 I’m looking to collaborate on ...
