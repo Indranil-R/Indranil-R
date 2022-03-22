@@ -24,6 +24,7 @@
      <img src="https://user-images.githubusercontent.com/87275536/159571599-6adc6d75-18ec-4227-9600-57eed333fb8d.png" height="40" title="Java">
     
 ## Social Profiles
+![icons8-linkedin-48](https://user-images.githubusercontent.com/87275536/159578489-0bc36e00-792e-4bea-b6e1-d39d081ff4d5.png)(https://www.linkedin.com/in/indranil-r/)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
