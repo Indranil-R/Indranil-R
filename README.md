@@ -1,4 +1,4 @@
-![tianyi-ma-WiONHd_zYI4-unsplash](https://user-images.githubusercontent.com/87275536/159562757-4b07810d-69e0-4fff-a4a0-a6e4ec5994ba.jpg)
+![tianyi-ma-WiONHd_zYI4-unsplash](https://user-images.githubusercontent.com/87275536/159563532-7f0138e2-6965-4eb8-bc25-79669f62877e.jpg)
 # Indranil Roy 
 ### A Student & Learner !!
 
