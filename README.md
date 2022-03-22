@@ -11,7 +11,7 @@
 
 ### Skills and Experience
 <code>
- <img src="https://user-images.githubusercontent.com/87275536/159567501-7914bbf8-7610-4548-afa3-889c493e3834.png" height="10" title="hover text">
+ <img src="https://user-images.githubusercontent.com/87275536/159567501-7914bbf8-7610-4548-afa3-889c493e3834.png" height="20" title="hover text"> Java
 </code>
 <!--
 - 👯 I’m looking to collaborate on ...
