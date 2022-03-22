@@ -11,10 +11,10 @@
 
 ## Working On
 <code>
- <img src="https://user-images.githubusercontent.com/87275536/159572037-e385d39e-aa0b-46b9-b866-465ebb93506b.png" height="20" title="Java"> Android Development 
+ <img src="https://user-images.githubusercontent.com/87275536/159572037-e385d39e-aa0b-46b9-b866-465ebb93506b.png" height="20" title="Java"> Android App Development 
  </code>
  
-### Languages
+## Languages
 
  <img src="https://user-images.githubusercontent.com/87275536/159572116-7ff22bb3-a95b-43cc-846c-01947024513b.png" height="40" title="Java"> &nbsp;
   <img src="https://user-images.githubusercontent.com/87275536/159571998-103aea90-e6d4-4587-a69f-f6a8e9dfe99e.png" height="40" title="Java">
