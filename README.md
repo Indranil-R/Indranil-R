@@ -1,34 +1,34 @@
-<!--![tianyi-ma-WiONHd_zYI4-unsplash](https://user-images.githubusercontent.com/87275536/159563532-7f0138e2-6965-4eb8-bc25-79669f62877e.jpg)-->
-# Indranil Roy 
-### A Student & Learner !!
+Hi 👋 My name is Indranil Roy
+=============================
 
-- I'm from India 🇮🇳
-- 🔭 I’m currently a techbee scholar at HCL Technologies
-- 🌱 I’m currently learning  ▶ android development
-- 🥅 Goals: To become the best version of myself 
-- 😄 Pronouns: Indra
-- ⚡ Fun fact: The only thing i love after my family is  💻 Coding
+Programmer, Student & Teacher
+-----------------------------
 
-## Working On
-<code>
- <img src="https://user-images.githubusercontent.com/87275536/159572037-e385d39e-aa0b-46b9-b866-465ebb93506b.png" height="30" title="Java"> Android App Development 
- </code>
-
- 
-## Languages
-
- <img src="https://user-images.githubusercontent.com/87275536/159572116-7ff22bb3-a95b-43cc-846c-01947024513b.png" height="40" title="Java"> &nbsp;
-  <img src="https://user-images.githubusercontent.com/87275536/159571998-103aea90-e6d4-4587-a69f-f6a8e9dfe99e.png" height="40" title="Java">
-   <img src="https://user-images.githubusercontent.com/87275536/159571990-2d39861e-9984-4096-aa8a-27cef169d7af.png" height="40" title="Java">
-    <img src="https://user-images.githubusercontent.com/87275536/159572222-f026181f-e6fb-4d86-935d-981c2fa06443.png" height="40" title="Java">
-     <img src="https://user-images.githubusercontent.com/87275536/159571599-6adc6d75-18ec-4227-9600-57eed333fb8d.png" height="40" title="Java">
-    
-## Social Profiles
-
-[![LinkedIn](https://user-images.githubusercontent.com/87275536/159578489-0bc36e00-792e-4bea-b6e1-d39d081ff4d5.png)](https://www.linkedin.com/in/indranil-r/)
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
+*   🌍  I'm based in Bhiwadi, India
+*   🖥️  See my portfolio at [Github](http://indranil-r.github.io/)
+*   🧠  I'm learning React Js
+*   ⚡  I hate Bugs 🐛### Skills<p align="left">
+                                <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+                                <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+                                <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+                                <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+                                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+                                <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+                                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/indranil-r" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="http://www.instagram.com/i_am_indranil_roy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/indranil-r" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/indranil-r"><img src="https://github-readme-stats.vercel.app/api?username=indranil-r&show_icons=true&hide=prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="indranil-r's GitHub stats" /></a><a href="https://github.com/indranil-r" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranil-r&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
