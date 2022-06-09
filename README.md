@@ -3,7 +3,6 @@
 ## Programmer, Student & Teacher
 
 - 🌍  I'm based in Bhiwadi, India
-- 🖥️  See my portfolio at [Github](http://indranil-r.github.io/)
 - 🧠  I'm learning React Js
 - ⚡  I hate Bugs 🐛
 ### Skills
